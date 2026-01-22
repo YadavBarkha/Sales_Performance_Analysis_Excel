@@ -1,4 +1,5 @@
 # Sales_Performance_Analysis_Excel
+!Sales Performance![Sales Performance](https://brooksgroup.com/wp-content/uploads/2023/03/Improve-Sales-Performance-Brooks-Group-Image-01-1280x753.png)
 
 ---
 
@@ -20,7 +21,7 @@ This project involves analyzing sales data and presenting insights through an in
 
 
 ## 🛠 Tools & Skills Used
-!Excel! [Excel](https://github.com/YadavBarkha/Sales_Performance_Analysis_Excel/blob/main/microsoft-excel%20(1).png)
+!Excel![Excel](https://github.com/YadavBarkha/Sales_Performance_Analysis_Excel/blob/main/microsoft-excel%20(1).png)
 
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
