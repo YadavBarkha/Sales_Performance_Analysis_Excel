@@ -20,7 +20,7 @@ This project involves analyzing sales data and presenting insights through an in
 
 
 ## 🛠 Tools & Skills Used
-[Excel](https://github.com/YadavBarkha/Sales_Performance_Analysis_Excel/blob/main/microsoft-excel%20(1).png)
+!Excel![Excel](https://github.com/YadavBarkha/Sales_Performance_Analysis_Excel/blob/main/microsoft-excel%20(1).png)
 
 -Microsoft Excel
 -Pivot Tables & Pivot Charts
@@ -32,7 +32,7 @@ This project involves analyzing sales data and presenting insights through an in
 ---
 
 ## 📊 Dashboard Preview 
-[Dashboard](https://github.com/YadavBarkha/Sales_Performance_Analysis_Excel/blob/main/Screenshot%202026-01-22%20181328.png)
+!Dashboard![Dashboard](https://github.com/YadavBarkha/Sales_Performance_Analysis_Excel/blob/main/Screenshot%202026-01-22%20181328.png)
 
 ---
 
