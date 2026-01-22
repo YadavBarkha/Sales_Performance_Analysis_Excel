@@ -11,42 +11,49 @@ This project involves analyzing sales data and presenting insights through an in
 
 ## 🎯 Objectives
 
-*Analyze overall sales and profit performance
-*Identify top-performing products and categories
-*Track monthly sales trends
-*Enable quick analysis using interactive filters
+-Analyze overall sales and profit performance
+-Identify top-performing products and categories
+-Track monthly sales trends
+-Enable quick analysis using interactive filters
 
 ---
 
 
 ## 🛠 Tools & Skills Used
+[Excel](https://github.com/YadavBarkha/Sales_Performance_Analysis_Excel/blob/main/microsoft-excel%20(1).png)
 
-*Microsoft Excel
-*Pivot Tables & Pivot Charts
-*Slicers
-*Data Cleaning & Formatting
-*Conditional Formatting
-*Dashboard Design Best Practices
+-Microsoft Excel
+-Pivot Tables & Pivot Charts
+-Slicers
+-Data Cleaning & Formatting
+-Conditional Formatting
+-Dashboard Design Best Practices
 
 ---
 
+## 📊 Dashboard Preview 
+[Dashboard](https://github.com/YadavBarkha/Sales_Performance_Analysis_Excel/blob/main/Screenshot%202026-01-22%20181328.png)
+
+---
 
 ## 📊 Dashboard Features
 
-*Key KPIs: Total Sales, Total Profit, Quantity Sold
-*Monthly Sales Trend Chart
-*Category-wise and Product-wise Sales Analysis
-*Region-based Performance
-*Interactive slicers for easy filtering
+
+-Key KPIs: Total Sales, Total Profit, Quantity Sold
+-Monthly Sales Trend Chart
+-Category-wise and Product-wise Sales Analysis
+-Region-based Performance
+-Interactive slicers for easy filtering
 
 ---
 
 
 ## 🚀 How to Use
-*Open the Excel file.
-*Navigate to the Dashboard sheet.
-*Use slicers to filter data by category, region, or time period.
-*All charts and KPIs update automatically.
+
+-Open the Excel file.
+-Navigate to the Dashboard sheet.
+-Use slicers to filter data by category, region, or time period.
+-All charts and KPIs update automatically.
 
 
 ---
