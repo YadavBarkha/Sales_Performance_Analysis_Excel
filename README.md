@@ -48,7 +48,7 @@ This project involves analyzing sales data and presenting insights through an in
 
 - Region-based Performance
 
--Interactive slicers for easy filtering
+- Interactive slicers for easy filtering
 
 ---
 
