@@ -40,9 +40,13 @@ This project involves analyzing sales data and presenting insights through an in
 
 
 -Key KPIs: Total Sales, Total Profit, Quantity Sold
+
 -Monthly Sales Trend Chart
+
 -Category-wise and Product-wise Sales Analysis
+
 -Region-based Performance
+
 -Interactive slicers for easy filtering
 
 ---
@@ -51,8 +55,11 @@ This project involves analyzing sales data and presenting insights through an in
 ## 🚀 How to Use
 
 -Open the Excel file.
+
 -Navigate to the Dashboard sheet.
+
 -Use slicers to filter data by category, region, or time period.
+
 -All charts and KPIs update automatically.
 
 
